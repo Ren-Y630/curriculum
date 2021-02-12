@@ -1,0 +1,38 @@
+@media screen and (max-width: 479px) {
+
+  .wrapper {
+    width: 300px;
+  }
+
+  .contents {
+    height: 350px;
+  }
+
+  .contents-center-left {
+    float: none;
+  }
+
+  .contents-left {
+    width: 125px;
+  }
+
+  .center-upper {
+    width: 175px;
+  }
+
+  .center-lower {
+    width: 175px;
+  }
+
+  .contents-lower {
+    width: 300px;
+  }
+
+  .contents-right {
+    float: none;
+    width: 300px;
+    height: 100px;
+  }
+
+
+}
